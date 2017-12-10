@@ -1,5 +1,5 @@
 # OzgeErsu
->The easiest way to reach veterinarians
+>Official Windows 10 UWP apps for ozge.ersu.net 
 
 ## Requirement
 * Windows 10 UWP SDK
@@ -26,6 +26,8 @@ $ git clone https://github.com/onurcelikeng/OzgeErsu.git
 
 ## Authors
 * **Onur Celik** - [GitHub](https://github.com/onurcelikeng)
+* **Baris Ceviz** - [GitHub](https://github.com/peacecwz)
+
 
 ## License
 OzgeErsu is released under the [MIT License](LICENSE).
