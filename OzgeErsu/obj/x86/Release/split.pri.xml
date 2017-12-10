@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="41283OzgeErsu.OzgeErsu" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OzgeErsu.xr.xml" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/OzgeErsu.xr.xml">
+				<Candidate type="Path">
+					<Value>OzgeErsu.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Backgrounds">
+					<NamedResource name="profile.jpg" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Backgrounds/profile.jpg">
+						<Candidate type="Path">
+							<Value>Assets\Backgrounds\profile.jpg</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="radio.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Backgrounds/radio.png">
+						<Candidate type="Path">
+							<Value>Assets\Backgrounds\radio.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="use.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Backgrounds/use.png">
+						<Candidate type="Path">
+							<Value>Assets\Backgrounds\use.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Icons">
+					<NamedResource name="back.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Icons/back.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\back.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pause.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Icons/pause.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\pause.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="play.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Icons/play.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\play.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="share.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Icons/share.png">
+						<Candidate type="Path">
+							<Value>Assets\Icons\share.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="SocialMedia">
+					<NamedResource name="facebook.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/SocialMedia/facebook.png">
+						<Candidate type="Path">
+							<Value>Assets\SocialMedia\facebook.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="instagram.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/SocialMedia/instagram.png">
+						<Candidate type="Path">
+							<Value>Assets\SocialMedia\instagram.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="linkedin.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/SocialMedia/linkedin.png">
+						<Candidate type="Path">
+							<Value>Assets\SocialMedia\linkedin.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="periscope.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/SocialMedia/periscope.png">
+						<Candidate type="Path">
+							<Value>Assets\SocialMedia\periscope.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="twitter.png" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/SocialMedia/twitter.png">
+						<Candidate type="Path">
+							<Value>Assets\SocialMedia\twitter.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Sounds">
+					<NamedResource name="biography.mp3" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Sounds/biography.mp3">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\biography.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="credit.mp3" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Sounds/credit.mp3">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\credit.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="intro.mp3" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Sounds/intro.mp3">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\intro.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ozge_intro.mp3" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Assets/Sounds/ozge_intro.mp3">
+						<Candidate type="Path">
+							<Value>Assets\Sounds\ozge_intro.mp3</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="SliderStyle1.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Styles/SliderStyle1.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBoxStyle1.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Styles/TextBoxStyle1.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Views">
+				<NamedResource name="ContentDetailsView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/ContentDetailsView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContentView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/ContentView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InstagramView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/InstagramView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="JoinTravelView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/JoinTravelView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StreamingView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/StreamingView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TravelDetailsView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/TravelDetailsView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TravelView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/TravelView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="VideoDetailsView.xbf" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/Views/VideoDetailsView.xbf">
+					<Candidate type="EmbeddedData">
+						<Base64Value>[Embedded Binary Data]</Base64Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://41283OzgeErsu.OzgeErsu/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

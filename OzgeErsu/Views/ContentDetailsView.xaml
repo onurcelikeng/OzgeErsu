@@ -1,0 +1,73 @@
+﻿<Page
+    x:Class="OzgeErsu.Views.ContentDetailsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:OzgeErsu.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Background>
+        <SolidColorBrush Color="#F1F1F1"/>
+    </Page.Background>
+
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <EntranceNavigationTransitionInfo/>
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Grid MaxWidth="500">
+
+        <Grid.Background>
+            <SolidColorBrush Color="#ffffff"/>
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="1"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+
+            <Grid.Background>
+                <SolidColorBrush Color="#ffffff"/>
+            </Grid.Background>
+
+            <AppBarButton x:Name="backButton" HorizontalAlignment="Left" VerticalAlignment="Center" Click="backButton_Click">
+                <AppBarButton.Icon>
+                    <BitmapIcon Margin="-3" UriSource="Assets/Icons/back.png"/>
+                </AppBarButton.Icon>
+            </AppBarButton>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+
+            <Grid.Background>
+                <SolidColorBrush Color="LightGray"/>
+            </Grid.Background>
+
+        </Grid>
+
+        <Grid Grid.Row="2">
+
+            <Image x:Name="shareButton" Tapped="shareButton_Tapped" Source="ms-appx:///Assets/Icons/share.png" Height="40" Width="40" Stretch="UniformToFill" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="159,20,151,0"/>
+
+        </Grid>
+
+        <Grid Grid.Row="3">
+
+            <WebView x:Name="webView" Margin="20,10,20,0"/>
+
+        </Grid>
+
+    </Grid>
+
+</Page>

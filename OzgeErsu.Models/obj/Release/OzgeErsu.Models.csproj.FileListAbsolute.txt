@@ -1,0 +1,8 @@
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Release\OzgeErsu.Models.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Release\OzgeErsu.Models.pdb
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Release\HtmlAgilityPack.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Release\Newtonsoft.Json.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Release\HtmlAgilityPack.pdb
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Release\Newtonsoft.Json.xml
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\obj\Release\OzgeErsu.Models.dll
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\obj\Release\OzgeErsu.Models.pdb

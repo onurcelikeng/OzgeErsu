@@ -1,0 +1,4 @@
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Client\OzgeErsu.Client.csproj;neutral
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\OzgeErsu.Models.csproj;neutral
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\OzgeErsu.Models.csproj;neutral
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu\OzgeErsu.csproj;x64

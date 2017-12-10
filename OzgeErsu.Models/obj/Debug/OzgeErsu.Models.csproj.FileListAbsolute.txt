@@ -1,0 +1,9 @@
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Debug\OzgeErsu.Models.dll
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Debug\OzgeErsu.Models.pdb
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Debug\HtmlAgilityPack.dll
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Debug\Newtonsoft.Json.dll
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Debug\HtmlAgilityPack.pdb
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\bin\Debug\Newtonsoft.Json.xml
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\obj\Debug\OzgeErsu.Models.dll
+c:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\obj\Debug\OzgeErsu.Models.pdb
+C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu.Models\obj\Debug\OzgeErsu.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu\bin\ARM\Release\Upload\OzgeErsu_2.0.0.0_ARM.appx
+SymbolPackage=C:\Users\onurcelikeng\Documents\Visual Studio 2015\Projects\OzgeErsu\OzgeErsu\AppPackages\OzgeErsu_2.0.0.0\OzgeErsu_2.0.0.0_ARM.appxsym
